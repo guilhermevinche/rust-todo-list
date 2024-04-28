@@ -1,6 +1,6 @@
 # rust-todo-list
 
-Simple code to creae a API Rest with Rust
+Simple code to creae a Todo List with Rust
 
 Reference:
 
